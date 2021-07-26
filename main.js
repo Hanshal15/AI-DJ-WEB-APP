@@ -18,3 +18,7 @@ function draw() {
 function play() {
     song.play(); //it is a pre-defiened funtion of p5 that starts playing music
 }
+
+function stop() {
+    song.stop(); //it is a pre-defiened funtion of p5 that starts stops music
+}

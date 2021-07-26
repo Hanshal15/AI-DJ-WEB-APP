@@ -42,4 +42,11 @@ body {
 canvas{
     border: 5px solid black;
     border-radius: 20px;
+    margin-top: 150px;
+}
+
+.stop_button{
+    width: 130px;
+    font-size: 25px;
+    float: bottom;
 }
